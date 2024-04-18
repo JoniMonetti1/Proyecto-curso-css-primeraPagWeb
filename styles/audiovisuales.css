@@ -1,0 +1,43 @@
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.deLado {
+    width: auto;
+    float: left;
+    height: 424px;
+    margin: 0;
+    object-fit: fill;
+}
+
+.deLado video {
+    width: 100%;
+    height: 100%;
+}
+
+.centrado {
+    display: flex;
+    justify-content: center;
+}
+
+.galeria {
+    margin: 5px;
+    border: 1px solid black;
+    float: left;
+    width: 33vw;
+}
+
+div.galeria img {
+    width: 100%;
+    height: auto;
+}
+
+.description {
+    padding: 15px;
+    text-align: center;
+}
+
+footer {
+    margin-top: auto;
+}
